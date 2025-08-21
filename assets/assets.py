@@ -1,0 +1,5 @@
+WALL = 'icons/wall.png'
+COIN = 'icons/coin.png'
+TRASH = 'icons/trash.png'
+AGENT = 'icons/agent.png'
+GOAL = 'icons/goal.png'
