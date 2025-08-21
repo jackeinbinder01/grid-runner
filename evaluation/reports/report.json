@@ -1,6 +1,6 @@
 [
     {
-        "timestamp": "2025-08-21T18:06:29.993352",
+        "timestamp": "2025-08-21T18:17:32.410301",
         "algorithm": "A* Search",
         "success": true,
         "steps_taken": 18,
@@ -11,7 +11,7 @@
             "TRASH": 0
         },
         "states_explored": 359,
-        "compute_time": 0.0016502921935170889,
+        "compute_time": 0.001956749940291047,
         "final_path": [
             [
                 0,
