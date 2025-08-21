@@ -83,6 +83,6 @@ python main.py
 **Note:** On some systems, you may need to use `python3` instead of `python` in the above terminal commands.
 
 
-For more information, please refer to the [Grid Runner PDF](grid_runner_multi_objective_ai_pathfinding_in_2d_environments.pdf).
+For full project details, please read the [Grid Runner PDF](grid_runner_multi_objective_ai_pathfinding_in_2d_environments.pdf).
 
 _Created by Jack Einbinder, 2025_
